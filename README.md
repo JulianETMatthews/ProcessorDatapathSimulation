@@ -22,3 +22,4 @@ Inputs are a series of MIPS commands
 
 Output is the state of the program counter, the current instruction in binary, and the data and temporary registers.
 
+Original was one file project.c, which is compiled as project. This has been seperated into multiple files for readability. 
