@@ -1,7 +1,6 @@
 
 ### MIPS Processor Simluated in C
-
-#### RPI Computer Organization Project 2021
+#### 2021
 
 Group:
 
